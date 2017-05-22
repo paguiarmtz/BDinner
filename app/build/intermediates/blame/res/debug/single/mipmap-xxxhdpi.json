@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\arrow_r.png",
+        "source": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\src\\main\\res\\mipmap-xxxhdpi\\arrow_r.png"
+    },
+    {
         "merged": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }

@@ -3,30 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Paul\.android\build-cache\e09e8dab483a17c5cbc3d45c2a1ee4da9e03add6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
-        <dex dex="C:\Users\Paul\Desktop\BDinner\app\build\intermediates\pre-dexed\debug\classes_761b1284b66e505f71f7a58872cc883bf4abbac2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Paul\.android\build-cache\dc4ba631353085f1d0d8b2dc59920eefbaae09e8\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
-        <dex dex="C:\Users\Paul\Desktop\BDinner\app\build\intermediates\pre-dexed\debug\classes_d8e8a0cebf4c955f98aa301386197e756eedc8e7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Paul\.android\build-cache\a9817e62de16f09adc1a3d9e9d3f0d819819fe25\output\jars\classes.jar"
+        jar="C:\Users\Paul\.android\build-cache\54c900689702df379853ce98530b1d52b17ee092\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
-        <dex dex="C:\Users\Paul\Desktop\BDinner\app\build\intermediates\pre-dexed\debug\classes_0afaeeff99b45c0ca0c94a5a366b9df9d8c7501e.jar" />
+        <dex dex="C:\Users\Paul\Desktop\BDinner\app\build\intermediates\pre-dexed\debug\classes_d9d046e9ee675fe9a028af62a7c8970de5206c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Paul\.android\build-cache\40bd8e29f59dcb53c89d0dd2fa3b0f2f18c991ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Paul\Desktop\BDinner\app\build\intermediates\pre-dexed\debug\classes_272416626729dbee25f2309f54aac29b37d0239f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Paul\.android\build-cache\7a182d7b2d51c9231dac0763c777a65b5f648597\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Paul\Desktop\BDinner\app\build\intermediates\pre-dexed\debug\classes_b029e1a2e990272766717b6f4c0bdfb3ca1674ff.jar" />
     </item>
 
 </items>

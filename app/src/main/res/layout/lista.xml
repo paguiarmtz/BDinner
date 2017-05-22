@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="126dp"
+        android:layout_height="120dp"
+        android:src="@drawable/italianfood"
+        android:scaleType="fitXY"
+        android:id="@+id/resultado_foto"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:layout_width="151dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/Nombre"
+        android:text="Nombre del restaurante"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/resultado_foto" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Nombre del platillo"
+        android:layout_below="@+id/Nombre"
+        android:layout_alignRight="@+id/Nombre" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:layout_below="@+id/email"
+        android:layout_alignLeft="@+id/email" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ratingBar"
+        android:textColor="#a42b00"
+        android:layout_toRightOf="@+id/resultado_foto"
+        android:text="$000.00" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/arrowr"
+        android:visibility="visible"
+        android:layout_below="@+id/email"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="16dp" />
+
+</RelativeLayout>

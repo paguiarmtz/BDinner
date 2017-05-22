@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\arrow_r.png",
+        "source": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\src\\main\\res\\mipmap-hdpi\\arrow_r.png"
+    },
+    {
         "merged": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Paul\\Desktop\\BDinner\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
